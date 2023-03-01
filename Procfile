@@ -1,0 +1,1 @@
+web: gunicorn source setup.sh && python app.py
